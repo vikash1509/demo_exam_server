@@ -1,0 +1,1 @@
+Normal_USer -> id,name,email,mob,school/college,rating,level,
